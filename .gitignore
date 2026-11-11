@@ -1,0 +1,8 @@
+# Hasil build NetBeans / Java
+build/
+dist/
+nbproject/private/
+*.class
+
+# Data aplikasi yang dibuat saat program dijalankan
+data_parkir.dat
